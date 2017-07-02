@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Stable>
-    <potter>
-      <Filename>RR-N-v5.8.3-20170629-potter-Official.zip</Filename>
-      <LatestBuildUrl
-          id="latestbuild"
-          title="Latest Build"
-          description="Download Latest Build">http://downloads.resurrectionremix.com/potter/RR-N-v5.8.3-20170629-potter-Official.zip</LatestBuildUrl>
-      <BuildUrl
-          id="build"
-          title="Build"
-          description="Download a Build">http://downloads.resurrectionremix.com/potter/</BuildUrl>
-      <GAppsUrl
-          id="GApps"
-          title="Open GApps"
-          description="Download Open GApps">http://www.opengapps.org/</GAppsUrl>
-      <ChangelogUrl
-          id="changelog"
-          title="Changelog"
-          description="View Changelogs">https://forum.xda-developers.com/showpost.php?p=72498020&postcount=2</ChangelogUrl>
-    </potter>
-  </Stable>
+    <Stable>
+        <potter>
+            <Filename>RR-N-v5.8.3-20170629-potter-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/potter/RR-N-v5.8.3-20170629-potter-Official.zip/download</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://www.opengapps.org</OpenGappsUrl>
+	    <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72498020&postcount=2</ChangelogUrl>
+	</potter>
+    </Stable>
 </SlimOTA>
-    
