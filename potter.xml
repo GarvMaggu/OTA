@@ -14,7 +14,7 @@
       <GAppsUrl
           id="GApps"
           title="Open GApps"
-          description="Download BeansGApps">http://www.opengapps.org/</GAppsUrl>
+          description="Download Open GApps">http://www.opengapps.org/</GAppsUrl>
       <ChangelogUrl
           id="changelog"
           title="Changelog"
