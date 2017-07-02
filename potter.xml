@@ -14,7 +14,7 @@
 	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72498020&postcount=2</ChangelogUrl>
+                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72498020&amp;postcount=2</ChangelogUrl>
 	</potter>
     </Stable>
 </SlimOTA>
