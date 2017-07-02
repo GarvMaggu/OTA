@@ -9,7 +9,7 @@
                 description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/potter/RR-N-v5.8.3-20170629-potter-Official.zip/download</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
-                title="OpenGApps"
+                title="Open GApps"
                 description="Download latest OpenGApps">http://www.opengapps.org</OpenGappsUrl>
 	    <ChangelogUrl
                 id="changelog"
