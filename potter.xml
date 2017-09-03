@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <potter>
-            <Filename>RR-N-v5.8.4-20170827-potter-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170903-potter-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/potter/RR-N-v5.8.4-20170827-potter-Weekly.zip/download</RomUrl>
+                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/potter/RR-N-v5.8.4-20170903-potter-Weekly.zip/download</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="Open GApps"
